@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RTDACUSB2_0103NS.RTDACUSB2_0103">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAQ=</HashCode>
+      <FileName>RTDACUSB2_0103.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.ADForm" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wACgPEDRCRGAHIIIgKgWJICACUACAABAjEgAACQATA=</HashCode>
+      <FileName>ADForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.ChronoForm" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8kAQCAAAICAAADBBAgKAFAwCAQQoAIGACAAAYAycAAA=</HashCode>
+      <FileName>ChronoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.DAForm" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAACAQARAAAACAAAACAASAAAAAAAAQAACQAAA=</HashCode>
+      <FileName>DAForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.DigitalIOForm" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwQAAAQAFCAAAEAAkACAAAAKAAQAAAAAAIAAAgCQAAA=</HashCode>
+      <FileName>DigitalIOForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.EncoderIForm" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAACAIBBAAAAKABAACAQQEAAABAAAAAACQAQA=</HashCode>
+      <FileName>EncoderIForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.BasicForm" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkGAAIASyhABBwAgWNgCACABIYBIAQIGAACFCQACA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.HPTimer" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACACAAAAAAggAAAAAAAAAACAoAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.RTDACReference" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAg=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.FreqMForm" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8EEoAAggBKBAABAAJAKAIAQSyAQYAARAGgRwAAiQAAo=</HashCode>
+      <FileName>FreqMForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.Program" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.PWMForm" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIKAgABgEAAKABQgCAAQAAABAAAACIACQAAA=</HashCode>
+      <FileName>PWMForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.ReadForm" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAKAAACABAQAABACAAAACAAEAAAAAAAAAAAQAACA=</HashCode>
+      <FileName>ReadForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.SendForm" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACQBAAAQAACAAAACAAAAAAAQAAABAAYAAAA=</HashCode>
+      <FileName>SendForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.Test" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAQaAAAAAgAACAAAAKAAQAAAAAAAAAAAKQAAA=</HashCode>
+      <FileName>Test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.TmrCntForm" Collapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAKAABBAAAAKAAAACAQQAAABAAQAAAACQAQA=</HashCode>
+      <FileName>TmrCntForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.Properties.Resources" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2_Basic.Properties.Settings" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.ConfigurationClass" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAIAAAAAEAAAIAAAAABAAAQAIAAAAAAAAEA=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.DigitalIOClass" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABIAAACCAAACAAAAAIAAGAEAAQACAAIQAAA=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.PWMClass" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAABCIAAAAACAAAAAEAAABAAAAAAAAAAgAIAAAA=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.EncoderClass" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAQAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.EncoderIClass" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAACAEBAABAAAAAAAAAQIAAAAAAICAgAAAAAA=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.CounterClass" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAQAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.TimerClass" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAQAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.TmrCntClass" Collapsed="true">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEACAAKAABQACAAAAAAAAAQACAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.ChronoClass" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>whQEAbCAAACoACQAAEAACgQQEQCEgYAACBAQwwwsgAA=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.FreqMClass" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WQQlUAiAiNAAAAkCBACECAYAEUEjgAAAAoDgkggGAIA=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.DAClass" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAABAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAIgAAAAAA=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.ADClass" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAABAAAMAAAAAAAAAEAAIAAAABAAAAAAAAgAAECIA=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACBoardNS.RTDACBoard">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAkAEBQIAAoEAIAAkACgEAAAAggoAhUSsAkRAIBACEE=</HashCode>
+      <FileName>RTDACBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTDACUSB2NS.RTDACUSB2" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAIAoKABAAAAAAAAAAAAIAAAIAAAAAgAAAAw=</HashCode>
+      <FileName>RTDACUSB2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
